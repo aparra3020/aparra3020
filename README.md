@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aparra3020
-- 👀 I’m interested in data science for finance
-- 🌱 I’m currently learning python and ML
+- 👀 I’m interested in data science and finances
+- 🌱 I’m currently learning dash and shiny
 - 💞️ I’m looking to collaborate on finance projects like time series forecasting
 - 📫 How to reach me pipepa15.2000@gmail.com
 
